@@ -1,3 +1,3 @@
 # Project1
-Describe the things !
+Learning Platform is Ready
 
